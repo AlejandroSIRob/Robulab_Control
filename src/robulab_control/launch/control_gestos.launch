@@ -1,0 +1,3 @@
+<launch>
+  <node name="gesture_node" pkg="robulab_control" type="gesture_node.py" output="screen"/>
+</launch>
